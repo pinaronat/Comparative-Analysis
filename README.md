@@ -2,7 +2,7 @@
 A comparative analysis between the proteome of Mycoplasma californicum and Mycoplasma agalactiae
 
 
-### get.orthologs.py
+### get_orthologs.py
 contains two functions: *get_bidirectional_best_hits()* and *get_inparalogs()*.
 
 *get_bidirectional_best_hits()* finds the BBH for two species by inputting their BLAST results for each other(BLAST species1 against species2 & BLAST species2 against species1).
